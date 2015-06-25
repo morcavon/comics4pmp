@@ -1,29 +1,8 @@
-# README #
+  
+ -- comics4PMP 소스 공개합니다 --
 
-This README would normally document whatever steps are necessary to get your application up and running.
+- 개발환경: Python 2.7 + wxPython 3.0, UI 개발 시 Boas Constructor 필요
 
-### What is this repository for? ###
+- 추가로 필요한 python library: PIL, py2exe
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+- Windows 실행 파일 생성: setup.bat 실행
